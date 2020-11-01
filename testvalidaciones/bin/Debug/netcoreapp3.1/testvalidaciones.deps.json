@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "testvalidaciones/1.0.0": {
+        "dependencies": {
+          "Validaciones": "1.0.0"
+        },
+        "runtime": {
+          "testvalidaciones.dll": {}
+        }
+      },
+      "Validaciones/1.0.0": {
+        "runtime": {
+          "Validaciones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "testvalidaciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Validaciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

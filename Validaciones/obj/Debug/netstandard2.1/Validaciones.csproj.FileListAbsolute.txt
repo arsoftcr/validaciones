@@ -1,0 +1,8 @@
+/Users/softland/Projects/Validaciones/Validaciones/bin/Debug/netstandard2.1/Validaciones.deps.json
+/Users/softland/Projects/Validaciones/Validaciones/bin/Debug/netstandard2.1/Validaciones.dll
+/Users/softland/Projects/Validaciones/Validaciones/bin/Debug/netstandard2.1/Validaciones.pdb
+/Users/softland/Projects/Validaciones/Validaciones/obj/Debug/netstandard2.1/Validaciones.AssemblyInfoInputs.cache
+/Users/softland/Projects/Validaciones/Validaciones/obj/Debug/netstandard2.1/Validaciones.AssemblyInfo.cs
+/Users/softland/Projects/Validaciones/Validaciones/obj/Debug/netstandard2.1/Validaciones.csproj.CoreCompileInputs.cache
+/Users/softland/Projects/Validaciones/Validaciones/obj/Debug/netstandard2.1/Validaciones.dll
+/Users/softland/Projects/Validaciones/Validaciones/obj/Debug/netstandard2.1/Validaciones.pdb

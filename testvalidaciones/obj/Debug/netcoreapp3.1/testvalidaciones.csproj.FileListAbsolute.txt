@@ -1,0 +1,15 @@
+/Users/softland/Projects/Validaciones/testvalidaciones/bin/Debug/netcoreapp3.1/testvalidaciones.deps.json
+/Users/softland/Projects/Validaciones/testvalidaciones/bin/Debug/netcoreapp3.1/testvalidaciones.runtimeconfig.json
+/Users/softland/Projects/Validaciones/testvalidaciones/bin/Debug/netcoreapp3.1/testvalidaciones.runtimeconfig.dev.json
+/Users/softland/Projects/Validaciones/testvalidaciones/bin/Debug/netcoreapp3.1/testvalidaciones.dll
+/Users/softland/Projects/Validaciones/testvalidaciones/bin/Debug/netcoreapp3.1/testvalidaciones.pdb
+/Users/softland/Projects/Validaciones/testvalidaciones/bin/Debug/netcoreapp3.1/Validaciones.dll
+/Users/softland/Projects/Validaciones/testvalidaciones/bin/Debug/netcoreapp3.1/Validaciones.pdb
+/Users/softland/Projects/Validaciones/testvalidaciones/obj/Debug/netcoreapp3.1/testvalidaciones.csprojAssemblyReference.cache
+/Users/softland/Projects/Validaciones/testvalidaciones/obj/Debug/netcoreapp3.1/testvalidaciones.AssemblyInfoInputs.cache
+/Users/softland/Projects/Validaciones/testvalidaciones/obj/Debug/netcoreapp3.1/testvalidaciones.AssemblyInfo.cs
+/Users/softland/Projects/Validaciones/testvalidaciones/obj/Debug/netcoreapp3.1/testvalidaciones.csproj.CoreCompileInputs.cache
+/Users/softland/Projects/Validaciones/testvalidaciones/obj/Debug/netcoreapp3.1/testvalidaciones.csproj.CopyComplete
+/Users/softland/Projects/Validaciones/testvalidaciones/obj/Debug/netcoreapp3.1/testvalidaciones.dll
+/Users/softland/Projects/Validaciones/testvalidaciones/obj/Debug/netcoreapp3.1/testvalidaciones.pdb
+/Users/softland/Projects/Validaciones/testvalidaciones/obj/Debug/netcoreapp3.1/testvalidaciones.genruntimeconfig.cache

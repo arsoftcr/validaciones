@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/softland/Projects/Validaciones/Validaciones/Validaciones.csproj": {}
+  },
+  "projects": {
+    "/Users/softland/Projects/Validaciones/Validaciones/Validaciones.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/softland/Projects/Validaciones/Validaciones/Validaciones.csproj",
+        "projectName": "Validaciones",
+        "projectPath": "/Users/softland/Projects/Validaciones/Validaciones/Validaciones.csproj",
+        "packagesPath": "/Users/softland/.nuget/packages/",
+        "outputPath": "/Users/softland/Projects/Validaciones/Validaciones/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/softland/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
