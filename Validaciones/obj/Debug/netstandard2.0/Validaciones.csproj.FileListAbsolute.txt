@@ -1,0 +1,9 @@
+C:\Users\rviquez\Documents\SOFTLANDREPOS\validaciones\Validaciones\bin\Debug\netstandard2.0\Validaciones.deps.json
+C:\Users\rviquez\Documents\SOFTLANDREPOS\validaciones\Validaciones\bin\Debug\netstandard2.0\Validaciones.dll
+C:\Users\rviquez\Documents\SOFTLANDREPOS\validaciones\Validaciones\bin\Debug\netstandard2.0\Validaciones.pdb
+C:\Users\rviquez\Documents\SOFTLANDREPOS\validaciones\Validaciones\obj\Debug\netstandard2.0\Validaciones.csprojAssemblyReference.cache
+C:\Users\rviquez\Documents\SOFTLANDREPOS\validaciones\Validaciones\obj\Debug\netstandard2.0\Validaciones.AssemblyInfoInputs.cache
+C:\Users\rviquez\Documents\SOFTLANDREPOS\validaciones\Validaciones\obj\Debug\netstandard2.0\Validaciones.AssemblyInfo.cs
+C:\Users\rviquez\Documents\SOFTLANDREPOS\validaciones\Validaciones\obj\Debug\netstandard2.0\Validaciones.csproj.CoreCompileInputs.cache
+C:\Users\rviquez\Documents\SOFTLANDREPOS\validaciones\Validaciones\obj\Debug\netstandard2.0\Validaciones.dll
+C:\Users\rviquez\Documents\SOFTLANDREPOS\validaciones\Validaciones\obj\Debug\netstandard2.0\Validaciones.pdb

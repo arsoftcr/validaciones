@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "D4PdCIyBhALmE99yUmjBVM1SbAS3Cykni4uCpm3+PkEVrKTELOUKpRwUzXztjhMw+oWBGKnf7A13QEtWYPkh7w==",
+  "dgSpecHash": "rhX+VLCtPopTxlDsymauD3KhP9bc8ERvjMykJ5bLJklIzY2MPJkPPwPLDGaVFGKj9w3lqwUt5sUqOAZjMrn5GQ==",
   "success": true,
-  "projectFilePath": "/Users/softland/Projects/Validaciones/Validaciones/Validaciones.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\rviquez\\Documents\\SOFTLANDREPOS\\validaciones\\Validaciones\\Validaciones.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rviquez\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rviquez\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
